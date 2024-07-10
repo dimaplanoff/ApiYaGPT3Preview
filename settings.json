@@ -1,0 +1,6 @@
+{
+  "db_conn": "Data Source= (DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(PORT = 1521)(HOST = 0.0.0.0))(CONNECT_DATA = (SERVICE_NAME =db)));Password=PWD;User ID=ID",
+  "ya_folder": "folder_guid",
+  "ya_auth": "Api-Key token",
+  "allow_tokens": ["client auth token"]
+}
